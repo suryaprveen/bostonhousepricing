@@ -18,6 +18,12 @@ Configure the Git
 
 git config --global user.name "name"     
 
-git config --global user.email "email"     
+git config --global user.email "email"
+
+git add .
+
+git commit -m "message"
+
+git push origin main
 
 """
